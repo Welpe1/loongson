@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "ls1c102_i2c.h": "c",
+        "ls1x_printf.h": "c",
+        "esp8266.h": "c",
+        "oled96.h": "c",
+        "ls1x.h": "c",
+        "ls1x_gpio.h": "c",
+        "ls1x_latimer.h": "c",
+        "config.h": "c",
+        "myoled.h": "c",
+        "myi2c.h": "c",
+        "ls1c102_adc.h": "c",
+        "aht10.h": "c",
+        "mpu9250.h": "c",
+        "ls1c102_interrupt.h": "c"
+    }
+}

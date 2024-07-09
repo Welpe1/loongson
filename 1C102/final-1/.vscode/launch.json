@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "showDevDebugOutput": "parsed",
+            "cwd": "${workspaceRoot}",
+            "executable": "./build/1c102_demo.elf",
+            "name": "Debug LoongArch",
+            "request": "launch",
+            "type": "debugger-for-loongarch",
+            "servertype": "openocd",
+            "toolchainPrefix":"loongarch32-newlib-elf",
+            "toolchainPath": "F:/资料/开发工具/laide/buildtool/la32-tool/bin",
+            "serverpath": "F:/资料/开发工具/laide/openocd/openocd.exe",
+            "device": "ls1c102",
+            "configFiles": [
+                "F:/资料/开发工具/laide/openocd/lalink.cfg",
+                "F:/资料/开发工具/laide/openocd/ls1c102.cfg"
+            ]
+            
+        }
+    ]
+}
+
+

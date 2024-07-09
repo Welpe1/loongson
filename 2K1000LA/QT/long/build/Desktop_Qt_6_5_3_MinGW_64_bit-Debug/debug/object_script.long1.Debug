@@ -1,0 +1,16 @@
+debug/homepage.o
+debug/humidity.o
+debug/main.o
+debug/mainwindow.o
+debug/range.o
+debug/setting.o
+debug/temperature.o
+debug/threshold.o
+debug/qrc_image.o
+debug/moc_homepage.o
+debug/moc_humidity.o
+debug/moc_mainwindow.o
+debug/moc_range.o
+debug/moc_setting.o
+debug/moc_temperature.o
+debug/moc_threshold.o

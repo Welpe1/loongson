@@ -1,0 +1,16 @@
+release/homepage.o
+release/humidity.o
+release/main.o
+release/mainwindow.o
+release/range.o
+release/setting.o
+release/temperature.o
+release/threshold.o
+release/qrc_image.o
+release/moc_homepage.o
+release/moc_humidity.o
+release/moc_mainwindow.o
+release/moc_range.o
+release/moc_setting.o
+release/moc_temperature.o
+release/moc_threshold.o

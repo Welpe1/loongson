@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/temp.png</file>
+        <file>image/shi.png</file>
+        <file>image/homepage.png</file>
+        <file>image/setting.png</file>
+        <file>image/back.png</file>
+    </qresource>
+</RCC>
